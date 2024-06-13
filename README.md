@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Jailbrake-Root-Detection
-=======
 # jailbrake-root-detection
 
 A ionic capacitor plugin to detect a device integrity.
@@ -38,4 +35,3 @@ echo(options: { value: string; }) => Promise<{ value: string; }>
 --------------------
 
 </docgen-api>
->>>>>>> 19eab7f (Initial Commit)
